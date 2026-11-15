@@ -1,0 +1,6 @@
+# The virtual environment is made on each computer, so it is not shared.
+.venv/
+__pycache__/
+# The database is made by the app and the sample data script.
+*.db
+instance/
