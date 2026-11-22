@@ -1,5 +1,7 @@
 # Netheret help desk, step 01: setup
 
+[English](README.md) | [Français](README.fr.md) | [Español](README.es.md) | [日本語](README.ja.md) | [Deutsch](README.de.md)
+
 A teaching example. Over sixteen steps we build a help desk web app for
 Netheret, a made-up company that supports the IT of small businesses. This
 step starts the project: a Flask app, a virtual environment, Git and a
